@@ -9,7 +9,7 @@ Features:
   5. Smart Budget Recommendations
   6. Financial Persona Classifier
   7. Behavioral Pattern Analysis
-"""
+""""""
 
 import random
 import json
